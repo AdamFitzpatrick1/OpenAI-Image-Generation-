@@ -1,7 +1,7 @@
 # OpenAI Image Generation 
 
 ![OpenAI Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/OpenAI_Logo.svg/320px-OpenAI_Logo.svg.png)
-![NodeJs logo](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png)
+![NodeJs logo](https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png =100x20)
 
  
 Sample project built in NodeJS to generate images using OpenAI's API
